@@ -1,6 +1,7 @@
 ### Burp Suite extensions
 
 [SQLi-Query-Tampering](https://github.com/xer0days/SQLi-Query-Tampering)
+[Quoted-printable-Parser](https://github.com/Hxzeroone/quoted-printable-Parser)
 
 ### Finding links
 
