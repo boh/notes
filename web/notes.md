@@ -7,6 +7,10 @@
 * [user@abc123.burpcollaborator.net](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5)
 * [Bypassing Email Filter which leads to SQL Injection](https://medium.com/@dimazarno/bypassing-email-filter-which-leads-to-sql-injection-e57bcbfc6b17)
 
+### Recon/Hunting
+
+* [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
+
 ### Little hacks
 * [tomnomnom - webpaste](https://github.com/tomnomnom/hacks/tree/master/webpaste/extension) - see tomnomnom's nahamsec conf talk on creating wordlists 
 
