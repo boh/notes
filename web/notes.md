@@ -11,6 +11,7 @@
 ### Recon/Hunting
 
 * [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
+* [Recon via bash scripts](https://github.com/harsh-bothra/Bheem)
 
 ### Little hacks
 * [tomnomnom - webpaste](https://github.com/tomnomnom/hacks/tree/master/webpaste/extension) - see tomnomnom's nahamsec conf talk on creating wordlists 
