@@ -12,6 +12,11 @@
 
 * [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
 * [Recon via bash scripts](https://github.com/harsh-bothra/Bheem)
+* [Hunting shortened URL](https://github.com/utkusen/urlhunter)
+
+![urlhunter](https://camo.githubusercontent.com/bf01c1974b093eb78cc23cc49c0439579c42f3dd1d829dbef10aa4856f8864ff/68747470733a2f2f692e696d6775722e636f6d2f4a32437276664d2e706e67)
+
+* aa
 
 ### Little hacks
 * [tomnomnom - webpaste](https://github.com/tomnomnom/hacks/tree/master/webpaste/extension) - see tomnomnom's nahamsec conf talk on creating wordlists 
