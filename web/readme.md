@@ -3,6 +3,7 @@
 * [SQLi-Query-Tampering](https://github.com/xer0days/SQLi-Query-Tampering)
 * [Quoted-printable-Parser](https://github.com/Hxzeroone/quoted-printable-Parser)
 * [BurpBounty](https://github.com/wagiro/BurpBounty)
+* [BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser)
 
 ### E-mail
 * [user@abc123.burpcollaborator.net](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5)
