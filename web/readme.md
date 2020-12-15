@@ -5,6 +5,7 @@
 * [BurpBounty](https://github.com/wagiro/BurpBounty)
 * [BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser)
 * [burpBridge](https://github.com/merlinxcy/burpBridge)
+* [Python2Intruder](https://github.com/Leoid/Python2Intruder)
 
 ### E-mail
 * [user@abc123.burpcollaborator.net](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5)
