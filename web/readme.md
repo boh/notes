@@ -93,6 +93,9 @@ subfinder -d http://att.com >> domains ; assetfinder -subs-only http://att.com >
 ```
 
 ### URL redirection
+
+thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-redirect-params.txt`
+
 ```
 /[redirect]
 ?targetOrigin=[redirect]
