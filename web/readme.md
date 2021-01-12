@@ -13,6 +13,9 @@
 
 ### Recon/Hunting
 
+* [https://recon.dev](https://recon.dev)
+* [http://securitytrails.com/](http://securitytrails.com/)
+
 * [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
 * [Recon via bash scripts](https://github.com/harsh-bothra/Bheem)
 * [Hunting shortened URL](https://github.com/utkusen/urlhunter)
