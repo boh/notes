@@ -149,3 +149,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 ?retURL=[redirect]
 ?next_url=[redirect]
 ```
+
+### FUZZ
+
+[fuzz wordlist](https://github.com/Bo0oM/fuzz.txt)
