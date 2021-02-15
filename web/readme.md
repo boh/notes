@@ -16,6 +16,8 @@
 
 ### Recon/Hunting
 
+* [Dynamic Infrastracture](https://github.com/pry0cc/axiom)
+
 * [https://recon.dev](https://recon.dev)
 * [http://securitytrails.com/](http://securitytrails.com/)
 
