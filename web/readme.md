@@ -7,6 +7,10 @@
 * [burpBridge](https://github.com/merlinxcy/burpBridge)
 * [Python2Intruder](https://github.com/Leoid/Python2Intruder)
 
+## Proxies
+
+* [weird proxies attack scenarios](https://github.com/GrrrDog/weird_proxies)
+
 ### JWT
 * [jwt_tool](https://github.com/ticarpi/jwt_tool)
 
