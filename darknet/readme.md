@@ -10,3 +10,28 @@
 ### 0day
 
 * [OTX 0day Marketplace](http://mxu7ronlnsgmqlt5sjsdedvmh6kdagdhsx3oqvu3vwhrz5eagq562oqd.onion/)
+
+### Ransomware leaks
+
+* http://hxt254aygrsziejn.onion
+* hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion
+* wqmfzni2nvbbpk25.onion/partners.html
+* nbzzb6sa6xuura2z.onion
+* http://avaddongun7rngel.onion
+* http://darksidedxcftmqa.onion
+* http://p6o7m73ujalhgkiv.onion
+* http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion
+* http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion
+* http://egregoranrmzapcv.onion
+* http://rgleak7op734elep.onion
+* http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion
+* http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion
+* http://ixltdyumdlthrtgx.onion
+* http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion
+* http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
+* mountnewsokhwilx.onion
+* http://lockbitkodidilol.onion
+* http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion
+* http://cuba4mp6ximo2zlo.onion
+* http://ekbgzchl6x2ias37.onion
+
