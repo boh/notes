@@ -7,3 +7,6 @@ https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in
 ### azure ad error codes
 https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-aadsts-error-codes
 
+### pulumi devops examples
+https://github.com/pulumi/examples
+
