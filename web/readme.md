@@ -7,6 +7,10 @@
 * [burpBridge](https://github.com/merlinxcy/burpBridge)
 * [Python2Intruder](https://github.com/Leoid/Python2Intruder)
 
+## cheatsheets, checkists
+
+* [Web-Application-Pentest-Checklist mindmap](https://github.com/iamthefrogy/)
+
 ## Proxies
 
 * [weird proxies attack scenarios](https://github.com/GrrrDog/weird_proxies)
