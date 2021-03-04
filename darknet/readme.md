@@ -11,6 +11,10 @@
 
 * [OTX 0day Marketplace](http://mxu7ronlnsgmqlt5sjsdedvmh6kdagdhsx3oqvu3vwhrz5eagq562oqd.onion/)
 
+### blogs
+
+* [Kushal Das](https://kushal76uaid62oup5774umh654scnu5dwzh4u2534qxhcbi4wbab3ad.onion/)
+
 ### Ransomware leaks
 
 * http://hxt254aygrsziejn.onion
