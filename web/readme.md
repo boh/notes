@@ -6,6 +6,7 @@
 * [BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser)
 * [burpBridge](https://github.com/merlinxcy/burpBridge)
 * [Python2Intruder](https://github.com/Leoid/Python2Intruder)
+* [BurpSuiteAutoCompletion](https://github.com/Static-Flow/BurpSuiteAutoCompletion)
 
 ## cheatsheets, checkists
 
