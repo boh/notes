@@ -33,6 +33,9 @@
 * http://ixltdyumdlthrtgx.onion
 * http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion
 * http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
+
+### conferences
+* http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/cons/
 * mountnewsokhwilx.onion
 * http://lockbitkodidilol.onion
 * http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion
