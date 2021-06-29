@@ -17,6 +17,8 @@
 
 ### Ransomware leaks
 
+* [Ransomware Group Sites ](http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/)
+
 * http://hxt254aygrsziejn.onion
 * hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion
 * wqmfzni2nvbbpk25.onion/partners.html
