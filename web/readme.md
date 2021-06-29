@@ -11,6 +11,7 @@
 ## cheatsheets, checkists
 
 * [Web-Application-Pentest-Checklist mindmap](https://github.com/iamthefrogy/)
+* [OWASP Web Security Guide](https://github.com/OWASP/wstg)
 
 ## Proxies
 
