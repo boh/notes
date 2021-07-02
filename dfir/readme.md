@@ -8,3 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/9626439/124277349-3bf3ec80-db45-11eb-91c7-1a83a9640cc9.png)
 
+* [Search command lines for wildcarded file types and you might find ransomware or preparation for exfil. It will often find backup programs too so look for outlier commands.](https://twitter.com/JohnLaTwC/status/1409902619825348613)
+
+![image](https://user-images.githubusercontent.com/9626439/124277626-883f2c80-db45-11eb-9097-ff5998af901c.png)
