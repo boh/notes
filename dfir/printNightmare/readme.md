@@ -1,3 +1,4 @@
+* [PwnWiki](https://www.pwnwiki.org/index.php?title=CVE-2021-34527_Windows_Print_Spooler_%E9%81%A0%E7%A8%8B%E4%BB%A3%E7%A2%BC%E5%9F%B7%E8%A1%8C%E6%BC%8F%E6%B4%9E/en)
 * [Free Micropatches for PrintNightmare Vulnerability (CVE-2021-34527) by @0patch](https://blog.0patch.com/2021/07/free-micropatches-for-printnightmare.html)
 * [CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE)
 * [PoC exploit](https://github.com/afwu/PrintNightmare)
