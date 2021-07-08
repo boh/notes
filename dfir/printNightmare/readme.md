@@ -12,6 +12,7 @@
 ![image](https://user-images.githubusercontent.com/9626439/124289917-2259a180-db53-11eb-9660-6d26b1059268.png)
 
 * [From Lares Labs: Detection & Remediation Information for CVE-2021-1675 & CVE-2021-34527](https://github.com/LaresLLC/CVE-2021-1675)
+* [This script is intended to mitigate Print Spooler attacks (specifically PrintNightmare CVE-2021-34527) by disabling the Spooler service where it is not needed](https://github.com/jokezone/PowerShell-Scripts)
 
 
 socials
