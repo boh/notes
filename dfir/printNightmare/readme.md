@@ -3,6 +3,7 @@
 * [C# and Impacket implementation of CVE-2021-1675/PrintNightmare](https://github.com/cube0x0/CVE-2021-1675)
   * https://www.youtube.com/watch?v=PbXO3b8_aYY
 * [CVE-2021-1675-LPE](https://github.com/hlldz/CVE-2021-1675-LPE)
+* [python cve scanner](https://github.com/byt3bl33d3r/ItWasAllADream)
 * [PoC exploit](https://github.com/afwu/PrintNightmare)
 * [PoC exploit II](https://github.com/calebstewart/CVE-2021-1675)
   * https://twitter.com/SofiaSZM/status/1410960878703362049
