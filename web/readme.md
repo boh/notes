@@ -23,6 +23,9 @@
 ### IDOR
 * [finding-more-idors-tips-and-tricks](https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/)
 
+### REQUEST SMUGGLING
+* [request_smuggler in rust](https://github.com/Sh1Yo/request_smuggler)
+
 ### E-mail
 * [user@abc123.burpcollaborator.net](https://medium.com/@d0nut/piercing-the-veal-short-stories-to-read-with-friends-4aa86d606fc5)
 * [Bypassing Email Filter which leads to SQL Injection](https://medium.com/@dimazarno/bypassing-email-filter-which-leads-to-sql-injection-e57bcbfc6b17)
