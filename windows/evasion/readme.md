@@ -3,3 +3,6 @@
 
 ### dll hijack
 * [platform to rapidly prototype and weaponise DLL hijacks](https://github.com/slaeryan/AQUARMOURY/tree/master/Brownie)
+
+### misc
+* [RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
