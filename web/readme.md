@@ -192,3 +192,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 ### JAVASCRIPT
 
 * [JavaSecurity checklist](https://github.com/dschadow/JavaSecurity)
+
+### tuts
+
+* [Microsoft Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
