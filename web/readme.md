@@ -1,5 +1,6 @@
 ### Burp Suite extensions
 
+* [AutoRepeater](https://github.com/nccgroup/AutoRepeater)
 * [SQLi-Query-Tampering](https://github.com/xer0days/SQLi-Query-Tampering)
 * [Quoted-printable-Parser](https://github.com/Hxzeroone/quoted-printable-Parser)
 * [BurpBounty](https://github.com/wagiro/BurpBounty)
