@@ -201,3 +201,4 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 ### tuts
 
 * [Microsoft Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+* [token manipulation](https://twelvesec.com/2017/05/05/authorization-token-manipulation/)
