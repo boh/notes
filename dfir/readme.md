@@ -1,6 +1,9 @@
 ### edu
 * [start.mr URL summary from SANS DFIR summit 2021](https://start.me/p/xbgNmz/sans-dfir-2021)
 
+### tools
+* [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md)
+
 ### misc
 
 * [Hunting for advanced Tactics, Techniques and Procedures (TTPs)](https://cyberpolygon.com/materials/hunting-for-advanced-tactics-techniques-and-procedures-ttps/)
