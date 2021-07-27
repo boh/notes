@@ -187,4 +187,8 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 
 ### FUZZ
 
-[fuzz wordlist](https://github.com/Bo0oM/fuzz.txt)
+* [fuzz wordlist](https://github.com/Bo0oM/fuzz.txt)
+
+### JAVASCRIPT
+
+* [JavaSecurity checklist](https://github.com/dschadow/JavaSecurity)
