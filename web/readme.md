@@ -7,6 +7,7 @@
 * [burpBridge](https://github.com/merlinxcy/burpBridge)
 * [Python2Intruder](https://github.com/Leoid/Python2Intruder)
 * [BurpSuiteAutoCompletion](https://github.com/Static-Flow/BurpSuiteAutoCompletion)
+* [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
 
 ## cheatsheets, checkists
 
