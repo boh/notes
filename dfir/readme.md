@@ -10,6 +10,7 @@
 * [Detect Impacket wmiexec](https://twitter.com/JohnLaTwC/status/1410671329104199681)
   * [wmiexec.py](https://github.com/SecureAuthCorp/impacket/blob/master/examples/wmiexec.py) 
 * [DFIR_Resources_REvil_Kaseya](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya) 
+* [Sysmon Internals](https://undev.ninja/sysmon-internals-from-file-delete-event-to-kernel-code-execution/)
 
 ![image](https://user-images.githubusercontent.com/9626439/124276971-c7b94900-db44-11eb-9a86-62dd6d1a1755.png)
 
