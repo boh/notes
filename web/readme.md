@@ -17,6 +17,7 @@
 * [Web-Application-Pentest-Checklist mindmap](https://github.com/iamthefrogy/)
 * [OWASP Web Security Guide](https://github.com/OWASP/wstg)
 * [BountyTips](https://github.com/r0eXpeR/BountyTips)
+* [WAF IDS evasion techniques](https://blog.0xffff.info/2021/07/24/a-guide-to-non-conventional-waf-ids-evasion-techniques/)
 
 ## Proxies
 
