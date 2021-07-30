@@ -8,3 +8,4 @@
 * [RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
 * [ADCSPwn](https://github.com/bats3c/ADCSPwn)
 * [C# obfuscate ConfuserEx](https://github.com/yck1509/ConfuserEx)
+* [AQUARMOURY random redteam/pentest tools for evasion](https://github.com/slaeryan/AQUARMOURY)
