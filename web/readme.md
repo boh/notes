@@ -22,6 +22,7 @@
 ## Proxies
 
 * [weird proxies attack scenarios](https://github.com/GrrrDog/weird_proxies)
+* [h2csmuggler](https://github.com/BishopFox/h2csmuggler)
 
 ### JWT
 * [jwt_tool](https://github.com/ticarpi/jwt_tool)
