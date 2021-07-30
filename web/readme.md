@@ -12,7 +12,7 @@
 * [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
 * [ProgressBurp - Track vulnerability assessment](https://github.com/dariusztytko/progress-burp)
 
-## cheatsheets, checkists
+## cheatsheets, checklists
 
 * [Web-Application-Pentest-Checklist mindmap](https://github.com/iamthefrogy/)
 * [OWASP Web Security Guide](https://github.com/OWASP/wstg)
@@ -204,3 +204,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 
 * [Microsoft Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 * [token manipulation](https://twelvesec.com/2017/05/05/authorization-token-manipulation/)
+
+### scan
+* [jaeles The Swiss Army knife for automated Web Application Testing](https://github.com/jaeles-project/jaeles)
+* [jaeles-signatures](https://github.com/jaeles-project/jaeles-signatures)
