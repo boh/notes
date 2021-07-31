@@ -9,3 +9,4 @@
 * [ADCSPwn](https://github.com/bats3c/ADCSPwn)
 * [C# obfuscate ConfuserEx](https://github.com/yck1509/ConfuserEx)
 * [AQUARMOURY random redteam/pentest tools for evasion](https://github.com/slaeryan/AQUARMOURY)
+* [F-Secure bypassing-windows-defender-runtime-scanning](https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/)
