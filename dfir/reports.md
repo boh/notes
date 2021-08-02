@@ -4,3 +4,6 @@ https://thedfirreport.com/2021/03/29/sodinokibi-aka-revil-ransomware/
 
 ### RATs
 * [DarkCrytstal RAT by Fireeye](https://www.fireeye.com/blog/threat-research/2020/05/analyzing-dark-crystal-rat-backdoor.html)
+
+### generic malware
+* [Higaisa malwarebytes](https://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/)
