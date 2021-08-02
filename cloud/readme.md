@@ -10,6 +10,9 @@ https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-aadsts
 ### Lateral Movement in Azure App Services
 https://www.netspi.com/blog/technical/cloud-penetration-testing/lateral-movement-azure-app-services/
 
+###
+https://www.blackhillsinfosec.com/breaching-the-cloud-perimeter-w-beau-bullock/
+
 ### pulumi devops examples
 https://github.com/pulumi/examples
 
