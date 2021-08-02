@@ -11,3 +11,7 @@ https://strontic.github.io/xcyclopedia/
 [Understanding and Abusing Process Tokens — Part I](https://securitytimes.medium.com/understanding-and-abusing-process-tokens-part-i-ee51671f2cfa)
 
 [Understanding and Abusing Process Tokens — Part II](https://securitytimes.medium.com/understanding-and-abusing-access-tokens-part-ii-b9069f432962)
+
+[WinDbg — the Fun Way: Part 1](https://medium.com/@yardenshafir2/windbg-the-fun-way-part-1-2e4978791f9b)
+
+[WinDbg — the Fun Way: Part 1](https://medium.com/@yardenshafir2/windbg-the-fun-way-part-2-7a904cba5435)
