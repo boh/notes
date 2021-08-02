@@ -7,3 +7,7 @@ https://strontic.github.io/xcyclopedia/
 [Winbindex - the Windows Binaries Index - intro blog](https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index/)
 
 [Winbindex - the Windows Binaries Index](https://winbindex.m417z.com/)
+
+[Understanding and Abusing Process Tokens — Part I](https://securitytimes.medium.com/understanding-and-abusing-process-tokens-part-i-ee51671f2cfa)
+
+[Understanding and Abusing Process Tokens — Part II](https://securitytimes.medium.com/understanding-and-abusing-access-tokens-part-ii-b9069f432962)
