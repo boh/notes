@@ -214,3 +214,4 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 ### ctfs and reports
 * [[H1-2006 2020] I made the CEO's bounty payment!](https://hackerone.com/reports/887816)
 * [[H1-2006 2020] H1-2006 CTF Writeup](https://hackerone.com/reports/887611)
+* [H1 How hackers saved christmas](https://hackerone.com/reports/1069335)
