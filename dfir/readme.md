@@ -3,6 +3,7 @@
 
 ### tools
 * [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md)
+* [Sample files for the Deployment Research Blog](https://github.com/DeploymentResearch/DRFiles/tree/master/Scripts)
 
 ### misc
 
