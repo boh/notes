@@ -15,3 +15,5 @@ https://strontic.github.io/xcyclopedia/
 [WinDbg — the Fun Way: Part 1](https://medium.com/@yardenshafir2/windbg-the-fun-way-part-1-2e4978791f9b)
 
 [WinDbg — the Fun Way: Part 1](https://medium.com/@yardenshafir2/windbg-the-fun-way-part-2-7a904cba5435)
+
+[reverse-engineering-c-with-ida-pro-classes-constructors-and-structs](https://oalabs.openanalysis.net/2019/06/03/reverse-engineering-c-with-ida-pro-classes-constructors-and-structs/)
