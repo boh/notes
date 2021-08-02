@@ -1,5 +1,6 @@
 ### injection
 * [hiding-malicious-code-with-module-stomping](https://blog.f-secure.com/hiding-malicious-code-with-module-stomping/)
+* [ATT&CK® Deep Dive: Process Injection](https://redcanary.com/resources/webinars/deep-dive-process-injection/?utm_source=twitter&utm_medium=social&utm_campaign=blog)
 
 ### dll hijack
 * [platform to rapidly prototype and weaponise DLL hijacks](https://github.com/slaeryan/AQUARMOURY/tree/master/Brownie)
