@@ -5,6 +5,7 @@
 
 ### dll hijack
 * [platform to rapidly prototype and weaponise DLL hijacks](https://github.com/slaeryan/AQUARMOURY/tree/master/Brownie)
+* [Exploiting DLL Hijacking by DLL Proxying Super Easily](https://github.com/tothi/dll-hijack-by-proxying)
 
 ### misc
 * [RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
