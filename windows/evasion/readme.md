@@ -11,3 +11,6 @@
 * [AQUARMOURY random redteam/pentest tools for evasion](https://github.com/slaeryan/AQUARMOURY)
 * [F-Secure bypassing-windows-defender-runtime-scanning](https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/)
 * [Didier Stevens DLL](https://blog.didierstevens.com/2017/09/08/quickpost-dlldemo/)
+
+### d/invoke
+* [TheWover Dynamic-Invoke](https://thewover.github.io/Dynamic-Invoke/)
