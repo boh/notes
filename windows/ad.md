@@ -1,3 +1,7 @@
+### Hunting in Active Directory: Unconstrained Delegation & Forests Trusts by Roberto Rodriguez
+
+https://posts.specterops.io/hunting-in-active-directory-unconstrained-delegation-forests-trusts-71f2b33688e1
+
 ### Get-MachineAccountQuotaUsers.ps1
 Gets a list of AD computers that were created by regular users exercising their default right to create up to 10 computer accounts in an AD domain
 
