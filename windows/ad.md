@@ -5,6 +5,9 @@ https://posts.specterops.io/hunting-in-active-directory-unconstrained-delegation
 ### BloodHond queries notebook
 https://web.archive.org/web/20210122003653/https://bloodhoundnotebook.com/notebooks/cypher/queries_notebook.html
 
+### machineaccountquota-is-useful-sometimes
+https://www.netspi.com/blog/technical/network-penetration-testing/machineaccountquota-is-useful-sometimes/
+
 ### Get-MachineAccountQuotaUsers.ps1
 Gets a list of AD computers that were created by regular users exercising their default right to create up to 10 computer accounts in an AD domain
 
