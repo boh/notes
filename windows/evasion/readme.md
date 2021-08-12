@@ -18,3 +18,6 @@
 
 ### d/invoke
 * [TheWover Dynamic-Invoke](https://thewover.github.io/Dynamic-Invoke/)
+
+### shellcoding
+* [JALSI](https://github.com/GetRektBoy724/JALSI)
