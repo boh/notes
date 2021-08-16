@@ -8,3 +8,6 @@ https://maddiestone.github.io/AndroidAppRE/
 * [android-reverse-engineering-for-beginners-dexcalibur](https://braincoke.fr/blog/2021/03/android-reverse-engineering-for-beginners-dexcalibur/)
 * [Android Hacking with FRIDA](https://joshspicer.com/android-frida-1)
 * [Hacking Android app with Frida](https://asvid.github.io/android-frida-hacking)
+
+### tools
+* [NinjaDroid](https://github.com/rovellipaolo/NinjaDroid)
