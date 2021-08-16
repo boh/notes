@@ -27,6 +27,7 @@
 
 ### JWT
 * [jwt_tool](https://github.com/ticarpi/jwt_tool)
+* [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
 
 ### IDOR
 * [finding-more-idors-tips-and-tricks](https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/)
