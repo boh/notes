@@ -7,6 +7,9 @@ https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in
 ### azure ad error codes
 https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-aadsts-error-codes
 
+### azure security best practices
+https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns
+
 ### Lateral Movement in Azure App Services
 https://www.netspi.com/blog/technical/cloud-penetration-testing/lateral-movement-azure-app-services/
 
