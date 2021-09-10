@@ -216,6 +216,9 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 * [jaeles-signatures](https://github.com/jaeles-project/jaeles-signatures)
 * [parameter pollution scanner - plution](https://github.com/raverrr/plution)
 
+### api
+* [graphql explorer](https://github.com/dolevf/graphw00f)
+
 ### ctfs and reports
 * [[H1-2006 2020] I made the CEO's bounty payment!](https://hackerone.com/reports/887816)
 * [[H1-2006 2020] H1-2006 CTF Writeup](https://hackerone.com/reports/887611)
