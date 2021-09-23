@@ -218,6 +218,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 
 ### api
 * [graphql explorer](https://github.com/dolevf/graphw00f)
+* (API pentest mindmap)[https://dsopas.github.io/MindAPI/play/]
 
 ### ctfs and reports
 * [[H1-2006 2020] I made the CEO's bounty payment!](https://hackerone.com/reports/887816)
