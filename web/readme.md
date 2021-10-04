@@ -215,6 +215,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 * [jaeles The Swiss Army knife for automated Web Application Testing](https://github.com/jaeles-project/jaeles)
 * [jaeles-signatures](https://github.com/jaeles-project/jaeles-signatures)
 * [parameter pollution scanner - plution](https://github.com/raverrr/plution)
+* [jspanda - parameter pollution scanner](https://github.com/RedSection/jspanda)
 
 ### api
 * [graphql explorer](https://github.com/dolevf/graphw00f)
