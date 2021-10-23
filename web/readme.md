@@ -12,6 +12,10 @@
 * [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
 * [ProgressBurp - Track vulnerability assessment](https://github.com/dariusztytko/progress-burp)
 
+### Burp Suite Collaborator
+
+* [Custom Burp Collaborator server](https://portswigger.net/burp/documentation/collaborator/deploying#add-custom-http-content)
+
 ## cheatsheets, checklists
 
 * [Web-Application-Pentest-Checklist mindmap](https://github.com/iamthefrogy/)
