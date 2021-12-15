@@ -1,5 +1,6 @@
 ### Burp Suite extensions
 
+* [list of awesome burp extensions](https://github.com/snoopysecurity/awesome-burp-extensions)
 * [AutoRepeater](https://github.com/nccgroup/AutoRepeater)
   * [Burp Suite Pro real-life tips & tricks: Authorization testing](https://mzet-.github.io/2019/07/21/burp-suite-pro-rltandt-authorization-testing.html) 
 * [SQLi-Query-Tampering](https://github.com/xer0days/SQLi-Query-Tampering)
