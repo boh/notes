@@ -56,6 +56,7 @@
 * [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
 * [Recon via bash scripts](https://github.com/harsh-bothra/Bheem)
 * [Recon framework](https://github.com/j3ssie/Osmedeus)
+* [Recon automation](https://github.com/hackerspider1/EchoPwn)
 * [Hunting shortened URL](https://github.com/utkusen/urlhunter)
 * [OSINT tools for domain recon](https://medium.com/@dalvikbytecode/top-10-osint-tools-to-help-you-do-recon-a-domain-53d3af8b1ad2)
 * [OSINT geo ip](https://medium.com/@ipdata_co/what-is-the-best-commercial-ip-geolocation-api-d8195cda7027#9854)
