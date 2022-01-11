@@ -1,0 +1,7 @@
+* [PCRE RegEx matching Log4Shell CVE-2021-44228 IOC in your logs](https://github.com/back2root/log4shell-rex)
+* [Log4j Vulnerability Scanner for Windows](https://github.com/Qualys/log4jscanwin)
+* [log4jScanner provides the ability to scan internal subnets for vulnerable log4j web service](https://github.com/proferosec/log4jScanner)
+* [Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell](https://github.com/Cybereason/Logout4Shell)
+* [Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)](https://github.com/fox-it/log4j-finder)
+* [log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.](https://github.com/cisagov/log4j-scanner)
+* [A community sourced list of log4j-affected software](https://github.com/cisagov/log4j-affected-db)
