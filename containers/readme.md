@@ -5,3 +5,4 @@
 * [Kubernetes POC for utilizing write mount to /var/log for getting a root on the host](https://github.com/danielsagi/kube-pod-escape)
 * [Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)](https://github.com/stealthcopter/deepce)
 * [CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency.](https://github.com/cdk-team/CDK)
+* [Grype - A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
