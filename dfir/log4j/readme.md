@@ -5,3 +5,4 @@
 * [Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)](https://github.com/fox-it/log4j-finder)
 * [log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.](https://github.com/cisagov/log4j-scanner)
 * [A community sourced list of log4j-affected software](https://github.com/cisagov/log4j-affected-db)
+* [Spring - log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)
