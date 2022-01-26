@@ -33,6 +33,9 @@
 
 ### JWT
 * [jwt_tool](https://github.com/ticarpi/jwt_tool)
+
+### SSL
+* [SSL testing with openssl](https://www.feistyduck.com/library/openssl-cookbook/online/ch-testing-with-openssl.html)
 * [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
 
 ### IDOR
