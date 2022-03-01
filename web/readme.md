@@ -228,6 +228,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 * [jaeles-signatures](https://github.com/jaeles-project/jaeles-signatures)
 * [parameter pollution scanner - plution](https://github.com/raverrr/plution)
 * [jspanda - parameter pollution scanner](https://github.com/RedSection/jspanda)
+* [RMI scanning](https://github.com/qtc-de/remote-method-guesser)
 
 ### api
 * [graphql explorer](https://github.com/dolevf/graphw00f)
