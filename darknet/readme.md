@@ -32,7 +32,7 @@
 * http://rgleak7op734elep.onion
 * http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion
 * http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion
-* http://ixltdyumdlthrtgx.onion (v3 http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/ )
+* http://ixltdyumdlthrtgx.onion
 * http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion
 * http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion
 
@@ -42,5 +42,5 @@
 * http://lockbitkodidilol.onion
 * http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion
 * http://cuba4mp6ximo2zlo.onion
-* http://ekbgzchl6x2ias37.onion
+* http://ekbgzchl6x2ias37.onion  (v3 http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/ )
 
