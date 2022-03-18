@@ -26,6 +26,7 @@
 * [OWASP www-project-automated-threats-to-web-applications](https://owasp.org/www-project-automated-threats-to-web-applications/)
 * [List of SourceCodeReview links](https://github.com/rahulbhichher/SourceCodeReview)
 * [Great web checklist for different types of pentests](https://pentestbook.six2dez.com/others/web-checklist)
+* [Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 
 ## Proxies
 
