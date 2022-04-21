@@ -53,7 +53,7 @@
 ### Recon/Hunting
 
 * [Dynamic Infrastracture](https://github.com/pry0cc/axiom)
-
+* [DNS recon](https://github.com/Findomain/Findomain)
 * [https://recon.dev](https://recon.dev)
 * [http://securitytrails.com/](http://securitytrails.com/)
 * [reconftw](https://github.com/six2dez/reconftw)
