@@ -17,6 +17,9 @@
 
 * [Custom Burp Collaborator server](https://portswigger.net/burp/documentation/collaborator/deploying#add-custom-http-content)
 
+### parsing html from commandline
+* [pup](https://github.com/ericchiang/pup)
+
 ## cheatsheets, checklists
 
 * [Web-Application-Pentest-Checklist mindmap](https://github.com/iamthefrogy/)
