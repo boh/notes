@@ -12,6 +12,7 @@
 * [BurpSuiteAutoCompletion](https://github.com/Static-Flow/BurpSuiteAutoCompletion)
 * [AuthMatrix](https://github.com/SecurityInnovation/AuthMatrix)
 * [ProgressBurp - Track vulnerability assessment](https://github.com/dariusztytko/progress-burp)
+* [XSS Burp Hunter](https://github.com/mystech7/Burp-Hunter) -> [docker xsshunter](https://github.com/mandatoryprogrammer/xsshunter-express)
 
 ### Burp Suite Collaborator
 
