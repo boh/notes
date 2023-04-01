@@ -238,6 +238,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 * [jspanda - parameter pollution scanner](https://github.com/RedSection/jspanda)
 * [RMI scanning](https://github.com/qtc-de/remote-method-guesser)
 * [WAF scanning](https://github.com/nemesida-waf/waf-bypass)
+* [scan a list of urls for endpoints, js, token and other secrets](https://github.com/edoardottt/cariddi)
 
 ### api
 * [graphql explorer](https://github.com/dolevf/graphw00f)
