@@ -63,6 +63,7 @@
 * [https://recon.dev](https://recon.dev)
 * [http://securitytrails.com/](http://securitytrails.com/)
 * [reconftw](https://github.com/six2dez/reconftw)
+* [reconness](https://docs.reconness.com/)
 * [webstor](https://github.com/RossGeerlings/webstor)
 
 * [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
