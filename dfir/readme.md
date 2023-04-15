@@ -9,6 +9,7 @@
 ### misc
 
 * [Hunting for advanced Tactics, Techniques and Procedures (TTPs)](https://cyberpolygon.com/materials/hunting-for-advanced-tactics-techniques-and-procedures-ttps/)
+* [Automate malware analysis JPCERT](https://blogs.jpcert.or.jp/en/2023/01/cloud_malware_analysis.html)
 * [Carbon Black hunting](https://github.com/0xpwntester/CB-Threat-Hunting)
 * [Detect Impacket wmiexec](https://twitter.com/JohnLaTwC/status/1410671329104199681)
   * [wmiexec.py](https://github.com/SecureAuthCorp/impacket/blob/master/examples/wmiexec.py) 
