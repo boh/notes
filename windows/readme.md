@@ -14,3 +14,4 @@
 * [reverse-engineering-c-with-ida-pro-classes-constructors-and-structs](https://oalabs.openanalysis.net/2019/06/03/reverse-engineering-c-with-ida-pro-classes-constructors-and-structs/)
 * [AMSITrigger tester](https://github.com/RythmStick/AMSITrigger)
 * [Eplore windows kernel activity](https://github.com/rabbitstack/fibratus)
+* [Potatoes I](https://jlajara.gitlab.io/Potatoes_Windows_Privesc)
