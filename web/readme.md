@@ -65,6 +65,7 @@
 * [reconftw](https://github.com/six2dez/reconftw)
 * [reconness](https://docs.reconness.com/)
 * [webstor](https://github.com/RossGeerlings/webstor)
+* [recon for strings in github / gitlab](https://github.com/codingo/dorky)
 
 * [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
 * [Recon via bash scripts](https://github.com/harsh-bothra/Bheem)
