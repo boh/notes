@@ -7,6 +7,9 @@ https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in
 ### azure ad error codes
 https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-aadsts-error-codes
 
+### AzureAD Security Config Analyzer
+https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md
+
 ### azure security best practices
 https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns
 
