@@ -11,4 +11,4 @@ https://maddiestone.github.io/AndroidAppRE/
 
 ### tools
 * [NinjaDroid](https://github.com/rovellipaolo/NinjaDroid)
-* [QuadraInspect](https://github.com/morpheuslord/QuadraInspect)
+* [QuadraInspect - AndroPass, APKUtil, RMS and MobFS](https://github.com/morpheuslord/QuadraInspect)
