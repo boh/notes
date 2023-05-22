@@ -230,6 +230,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 ### JAVASCRIPT
 
 * [JavaSecurity checklist](https://github.com/dschadow/JavaSecurity)
+* [weaponized xss payloads](https://github.com/hakluke/weaponised-XSS-payloads)
 
 ### tuts
 
