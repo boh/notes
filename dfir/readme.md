@@ -5,6 +5,7 @@
 * [Eric Zimmerman's tools](https://ericzimmerman.github.io/#!index.md)
 * [Sample files for the Deployment Research Blog](https://github.com/DeploymentResearch/DRFiles/tree/master/Scripts)
 * [moneta - live usermode memory analysis tool for Windows with the capability to detect malware IOCs](https://github.com/forrest-orr/moneta)
+* [ThreatHunting-Keywords - big csv file for blue/red](https://github.com/mthcht/ThreatHunting-Keywords)
 
 ### misc
 
