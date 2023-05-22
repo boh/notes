@@ -15,6 +15,7 @@
 * [XSS Burp Hunter](https://github.com/mystech7/Burp-Hunter) -> [docker xsshunter](https://github.com/mandatoryprogrammer/xsshunter-express)
 * [Burp fake IP](https://github.com/KrystianLi/burpFakeIP)
 * [burpgpt](https://github.com/aress31/burpgpt)
+* [ReconAIzer - OpenAI BurpSuite suggestions](https://github.com/hisxo/ReconAIzer)
 
 ### Burp Suite Collaborator
 
