@@ -66,6 +66,7 @@
 * [reconness](https://docs.reconness.com/)
 * [webstor](https://github.com/RossGeerlings/webstor)
 * [recon for strings in github / gitlab](https://github.com/codingo/dorky)
+* [SubreconGTP](https://github.com/jhaddix/SubreconGTP)
 
 * [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
 * [Recon via bash scripts](https://github.com/harsh-bothra/Bheem)
