@@ -244,6 +244,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 * [RMI scanning](https://github.com/qtc-de/remote-method-guesser)
 * [WAF scanning](https://github.com/nemesida-waf/waf-bypass)
 * [scan a list of urls for endpoints, js, token and other secrets](https://github.com/edoardottt/cariddi)
+* [real world wordlist for joomla, tomcat etc](https://github.com/trickest/wordlists)
 
 ### api
 * [graphql explorer](https://github.com/dolevf/graphw00f)
