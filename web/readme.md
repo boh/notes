@@ -68,6 +68,7 @@
 * [webstor](https://github.com/RossGeerlings/webstor)
 * [recon for strings in github / gitlab](https://github.com/codingo/dorky)
 * [SubreconGTP](https://github.com/jhaddix/SubreconGTP)
+* [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
 
 * [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
 * [Recon via bash scripts](https://github.com/harsh-bothra/Bheem)
