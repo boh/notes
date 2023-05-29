@@ -34,6 +34,7 @@
 * [List of SourceCodeReview links](https://github.com/rahulbhichher/SourceCodeReview)
 * [Great web checklist for different types of pentests](https://pentestbook.six2dez.com/others/web-checklist)
 * [Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
+* [Web bounty tips](https://www.bugbountyhunter.com/guides/?type=fileuploads)
 
 ## Proxies
 
