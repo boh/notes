@@ -70,6 +70,7 @@
 * [recon for strings in github / gitlab](https://github.com/codingo/dorky)
 * [SubreconGTP](https://github.com/jhaddix/SubreconGTP)
 * [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
+* [GO binary like dnstwist](https://github.com/netevert/dnsmorph)
 
 * [How to hunt for bugs](https://github.com/KathanP19/HowToHunt)
 * [Recon via bash scripts](https://github.com/harsh-bothra/Bheem)
