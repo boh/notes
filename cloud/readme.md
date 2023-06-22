@@ -16,6 +16,9 @@ https://docs.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-
 ### Lateral Movement in Azure App Services
 https://www.netspi.com/blog/technical/cloud-penetration-testing/lateral-movement-azure-app-services/
 
+### sample log files after running offsec in O365
+https://github.com/blueteam0ps/det-eng-samples
+
 ### Breaching the cloud w Beau Bullock 4hrs workshop
 https://www.blackhillsinfosec.com/breaching-the-cloud-perimeter-w-beau-bullock/
 
