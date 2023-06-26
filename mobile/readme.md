@@ -15,3 +15,4 @@ https://maddiestone.github.io/AndroidAppRE/
 * [NinjaDroid](https://github.com/rovellipaolo/NinjaDroid)
 * [QuadraInspect - AndroPass, APKUtil, RMS and MobFS](https://github.com/morpheuslord/QuadraInspect)
 * [semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security)
+* [Mobile screen over http](https://github.com/dkrivoruchko/ScreenStream)
