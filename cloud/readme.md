@@ -1,7 +1,8 @@
 ### gitlab security
 https://gitlab.com/gitlab-com/gl-security
 
-### https://github.com/iknowjason/Awesome-CloudSec-Labs
+### Awesome CloudSec Labs
+https://github.com/iknowjason/Awesome-CloudSec-Labs
 
 ### hacking google cloud 
 https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/?utm_medium=social&utm_source=twitter&utm_campaign=blog
