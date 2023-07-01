@@ -47,6 +47,9 @@
 ### JWT
 * [jwt_tool](https://github.com/ticarpi/jwt_tool)
 
+### aka Cyberchef
+* [Bugbounty.zip](https://bugbounty.zip/)
+
 ### NUCLEI
 * [Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection)
 
