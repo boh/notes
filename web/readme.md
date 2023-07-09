@@ -17,6 +17,7 @@
 * [burpgpt](https://github.com/aress31/burpgpt)
 * [ReconAIzer - OpenAI BurpSuite suggestions](https://github.com/hisxo/ReconAIzer)
 * [Create complex wordlists](https://github.com/Anof-cyber/ParaForge)
+* [crawl js in passive mode](https://github.com/hisxo/JSpector/)
 
 ### Burp Suite Collaborator
 
