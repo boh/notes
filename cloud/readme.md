@@ -38,6 +38,9 @@ https://twitter.com/jhencinski/status/1283810412950106112
 ### AWS-Penetration-Testing by Packt
 https://github.com/PacktPublishing/AWS-Penetration-Testing
 
+### AWS Pentesting labs
+https://github.com/juanjoSanz/aws-pentesting-lab
+
 ![](https://pbs.twimg.com/media/EdECvpVWkAAplGE?format=jpg&name=4096x4096)
 
 ## Random
