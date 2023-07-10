@@ -41,6 +41,9 @@ https://github.com/PacktPublishing/AWS-Penetration-Testing
 ### AWS Pentesting labs
 https://github.com/juanjoSanz/aws-pentesting-lab
 
+### AWS cloudjack
+https://github.com/prevade/cloudjack
+
 ![](https://pbs.twimg.com/media/EdECvpVWkAAplGE?format=jpg&name=4096x4096)
 
 ## Random
