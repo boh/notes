@@ -35,6 +35,9 @@ https://github.com/zer1t0/awsenum
 ### aws mind map dfir
 https://twitter.com/jhencinski/status/1283810412950106112
 
+### AWS-Penetration-Testing by Packt
+https://github.com/PacktPublishing/AWS-Penetration-Testing
+
 ![](https://pbs.twimg.com/media/EdECvpVWkAAplGE?format=jpg&name=4096x4096)
 
 ## Random
