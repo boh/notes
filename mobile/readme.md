@@ -16,3 +16,4 @@ https://maddiestone.github.io/AndroidAppRE/
 * [QuadraInspect - AndroPass, APKUtil, RMS and MobFS](https://github.com/morpheuslord/QuadraInspect)
 * [semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security)
 * [Mobile screen over http](https://github.com/dkrivoruchko/ScreenStream)
+* [Static code analysis APKHunt](https://github.com/Cyber-Buddy/APKHunt)
