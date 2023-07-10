@@ -44,6 +44,12 @@ https://github.com/juanjoSanz/aws-pentesting-lab
 ### AWS cloudjack
 https://github.com/prevade/cloudjack
 
+### A tool for identifying misconfigured CloudFront domains
+https://github.com/MindPointGroup/cloudfrunt
+
+### A simple file-based scanner to look for potential AWS access and secret keys in files
+https://github.com/disruptops/cred_scanner
+
 ![](https://pbs.twimg.com/media/EdECvpVWkAAplGE?format=jpg&name=4096x4096)
 
 ## Random
