@@ -50,6 +50,9 @@ https://github.com/MindPointGroup/cloudfrunt
 ### A simple file-based scanner to look for potential AWS access and secret keys in files
 https://github.com/disruptops/cred_scanner
 
+### AWS webservices
+https://github.com/open-guides/og-aws
+
 ![](https://pbs.twimg.com/media/EdECvpVWkAAplGE?format=jpg&name=4096x4096)
 
 ## Random
