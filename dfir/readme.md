@@ -7,6 +7,7 @@
 * [moneta - live usermode memory analysis tool for Windows with the capability to detect malware IOCs](https://github.com/forrest-orr/moneta)
 * [ThreatHunting-Keywords - big csv file for blue/red](https://github.com/mthcht/ThreatHunting-Keywords)
 * [Rapidly Search and Hunt through Windows Forensic Artefacts](https://github.com/WithSecureLabs/chainsaw)
+* [Sentinel_KQL](https://github.com/ep3p/Sentinel_KQL)
 
 ### misc
 
