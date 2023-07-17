@@ -23,6 +23,12 @@ https://blog.pwntario.com/team-posts/lees-posts/malicious-azuread-app-registrati
 
 ## AWS
 
+### CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+https://github.com/duo-labs/cloudmapper
+
+### Playing around with Stratus Red Team (Cloud Attack simulation tool) and SumoLogic
+https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection
+
 ### guide-aws-hacking
 https://github.com/opendevsecops/guide-aws-hacking
 
