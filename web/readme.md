@@ -72,7 +72,7 @@
 * [headerinjection](https://github.com/themalwarenews/headerinjection)
 
 ### Recon/Hunting
-
+* [web-check](https://github.com/Lissy93/web-check)
 * [Dynamic Infrastracture](https://github.com/pry0cc/axiom)
 * [DNS recon](https://github.com/Findomain/Findomain)
 * [https://recon.dev](https://recon.dev)
