@@ -6,3 +6,4 @@
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator)
 * [This project aims to compare and evaluate the telemetry of various EDR products.](https://github.com/tsale/EDR-Telemetry)
 * [Infection Monkey - An open-source adversary emulation platform](https://github.com/guardicore/monkey)
+* [Security-operation-book](https://github.com/0x783kb/Security-operation-book/tree/master)
