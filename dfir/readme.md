@@ -23,6 +23,7 @@
 * [Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments](https://www.cisa.gov/uscert/ncas/alerts/aa21-008a)
 * [Visualize Windows Event logs](https://github.com/JPCERTCC/LogonTracer)
 * [dump evtx in rust](https://github.com/omerbenamram/evtx)
+* [dfir arfifacts](https://github.com/ForensicArtifacts/artifacts)
 
 ![image](https://user-images.githubusercontent.com/9626439/124276971-c7b94900-db44-11eb-9a86-62dd6d1a1755.png)
 
