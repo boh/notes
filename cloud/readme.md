@@ -6,6 +6,9 @@ https://github.com/CyberSecurityUP/Cloud-Security-Attacks
 ### azure ad error codes
 https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-aadsts-error-codes
 
+### M365 & Azure AD automatic security testing
+https://github.com/vectra-ai-research/MAAD-AF
+
 ### AzureAD Security Config Analyzer
 https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/AADSecurityConfigAnalyzer.md
 
