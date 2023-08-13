@@ -9,6 +9,7 @@
 * [ThreatHunting-Keywords - big csv file for blue/red](https://github.com/mthcht/ThreatHunting-Keywords)
 * [Rapidly Search and Hunt through Windows Forensic Artefacts](https://github.com/WithSecureLabs/chainsaw)
 * [Sentinel_KQL](https://github.com/ep3p/Sentinel_KQL)
+* [Enrich linux auditd logs into JSON format](https://github.com/mthcht/laurel)
 
 ### misc
 
