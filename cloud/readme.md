@@ -6,6 +6,12 @@ https://github.com/CyberSecurityUP/Cloud-Security-Attacks
 ### azure ad error codes
 https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-aadsts-error-codes
 
+### broken by design AZURE
+https://github.com/SecuraBV/brokenbydesign-azure
+
+### CONVEX CTF AZURE
+https://github.com/Azure/CONVEX
+
 ### M365 & Azure AD automatic security testing
 https://github.com/vectra-ai-research/MAAD-AF
 
