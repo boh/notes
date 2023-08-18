@@ -1,7 +1,4 @@
 ## tools
-
-### c2
-* [sliver](https://github.com/BishopFox/sliver)
 * [attack2jira blogpost](https://medium.com/@mvelazco/tracking-and-measuring-att-ck-coverage-with-attack2jira-fe700e2a1654)
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator)
 * [This project aims to compare and evaluate the telemetry of various EDR products.](https://github.com/tsale/EDR-Telemetry)
@@ -13,3 +10,7 @@
 * [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 * [Metta - An information security preparedness tool to do adversarial simulation.](https://github.com/uber-common/metta)
 * [Security-operation-book](https://github.com/0x783kb/Security-operation-book/tree/master)
+
+### c2
+* [sliver](https://github.com/BishopFox/sliver)
+
