@@ -16,4 +16,4 @@
 
 ### reports
 * [ransomware impacket remcom](https://thehackernews.com/2023/08/new-blackcat-ransomware-variant-adopts.html)
-
+* [ransomware spotlight](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-play)
