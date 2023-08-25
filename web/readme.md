@@ -39,6 +39,8 @@
 * [Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 * [Web bounty tips](https://www.bugbountyhunter.com/guides/?type=fileuploads)
 * [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
+* [Monitoring JS files for bug bounty](https://github.com/robre/jsmon)
+* [Continuous monitoring for JavaScript files](https://github.com/cablej/FileChangeMonitor)
 
 ## Proxies
 
@@ -53,6 +55,7 @@
 
 ### NUCLEI
 * [Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection)
+* [Nuclei plugins to audit Chrome extensions](https://github.com/nullenc0de/ChromeAudit)
 
 ### SSL
 * [SSL testing with openssl](https://www.feistyduck.com/library/openssl-cookbook/online/ch-testing-with-openssl.html)
