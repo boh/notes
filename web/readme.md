@@ -56,6 +56,7 @@
 ### NUCLEI
 * [Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection)
 * [Nuclei plugins to audit Chrome extensions](https://github.com/nullenc0de/ChromeAudit)
+* [ParamSpider + Nuclei fuzzing](https://github.com/0xKayala/NucleiFuzzer)
 
 ### SSL
 * [SSL testing with openssl](https://www.feistyduck.com/library/openssl-cookbook/online/ch-testing-with-openssl.html)
