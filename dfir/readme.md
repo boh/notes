@@ -10,6 +10,7 @@
 * [Rapidly Search and Hunt through Windows Forensic Artefacts](https://github.com/WithSecureLabs/chainsaw)
 * [Sentinel_KQL](https://github.com/ep3p/Sentinel_KQL)
 * [Enrich linux auditd logs into JSON format](https://github.com/mthcht/laurel)
+* [identify cli obfuscated commands on windows](https://github.com/wietze/windows-command-line-obfuscation)
 
 ### misc
 
