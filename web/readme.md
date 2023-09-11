@@ -18,6 +18,7 @@
 * [ReconAIzer - OpenAI BurpSuite suggestions](https://github.com/hisxo/ReconAIzer)
 * [Create complex wordlists](https://github.com/Anof-cyber/ParaForge)
 * [crawl js in passive mode](https://github.com/hisxo/JSpector/)
+* [Burp Suite Extension for inserting a magick byte into responder's request](https://github.com/websecnl/MagickByteSelector)
 
 ### Burp Suite Collaborator
 
