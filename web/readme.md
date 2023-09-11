@@ -54,6 +54,9 @@
 ### aka Cyberchef
 * [Bugbounty.zip](https://bugbounty.zip/)
 
+### Wordpress
+* [Wordpress authorization checks](https://github.com/aqeisi/WP-RestScan)
+
 ### NUCLEI
 * [Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection)
 * [Nuclei plugins to audit Chrome extensions](https://github.com/nullenc0de/ChromeAudit)
