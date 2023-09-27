@@ -104,8 +104,9 @@
 * [IP behind Cloudflare](https://github.com/christophetd/CloudFlair)
 * [DNS subdomains hunting](https://github.com/zzzteph/probable_subdomains)
 * [Using a URL list for security testing can be painful as there are a lot of URLs that have uninteresting/duplicate content; uro aims to solve that.](https://github.com/s0md3v/uro)
+* ![urlhunter](https://camo.githubusercontent.com/bf01c1974b093eb78cc23cc49c0439579c42f3dd1d829dbef10aa4856f8864ff/68747470733a2f2f692e696d6775722e636f6d2f4a32437276664d2e706e67)
+* [OSTE-Meta-Scan](https://github.com/OSTEsayed/OSTE-Meta-Scan)
 
-![urlhunter](https://camo.githubusercontent.com/bf01c1974b093eb78cc23cc49c0439579c42f3dd1d829dbef10aa4856f8864ff/68747470733a2f2f692e696d6775722e636f6d2f4a32437276664d2e706e67)
 
 ### Little hacks
 * [tomnomnom - webpaste](https://github.com/tomnomnom/hacks/tree/master/webpaste/extension) - see tomnomnom's nahamsec conf talk on creating wordlists 
