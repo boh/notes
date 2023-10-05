@@ -4,6 +4,9 @@ https://github.com/sa7mon/S3Scanner
 
 ## Azure
 
+### Cloud katana
+https://cloud-katana.com/intro.html
+
 ### azure ad error codes
 https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-aadsts-error-codes
 
