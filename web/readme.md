@@ -27,6 +27,10 @@
 ### parsing html from commandline
 * [pup](https://github.com/ericchiang/pup)
 
+### shortnames IIS
+* [IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner)
+* [shortscan]()
+
 ## cheatsheets, checklists
 
 * [Web-Application-Pentest-Checklist mindmap](https://github.com/iamthefrogy/)
