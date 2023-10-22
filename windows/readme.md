@@ -17,5 +17,8 @@
 * [Eplore windows kernel activity](https://github.com/rabbitstack/fibratus)
 * [Potatoes I](https://jlajara.gitlab.io/Potatoes_Windows_Privesc)
 
+## authorization checks
+* [windows authorization](https://csandker.io/2018/06/14/AWindowsAuthorizationGuide.html)
+
 ## privesc
 * [Privesc checks via procmon](https://github.com/vu-ls/Crassus)
