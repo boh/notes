@@ -20,6 +20,10 @@
 * [crawl js in passive mode](https://github.com/hisxo/JSpector/)
 * [Burp Suite Extension for inserting a magick byte into responder's request](https://github.com/websecnl/MagickByteSelector)
 
+### Chrome extensions
+* [A Chrome browser extension to show alerts for relfected query params, show hidden elements and enable disabled elements.](https://github.com/xnl-h4ck3r/XnlReveal)
+* [OpenAPI DevTools is a Chrome extension that generates OpenAPI specifications in real time from network requests. Once installed it adds a new tab to Chrome DevTools called OpenAPI. While the tool is open it automatically converts network requests into a specification.](https://github.com/AndrewWalsh/openapi-devtools)
+
 ### Burp Suite Collaborator
 
 * [Custom Burp Collaborator server](https://portswigger.net/burp/documentation/collaborator/deploying#add-custom-http-content)
