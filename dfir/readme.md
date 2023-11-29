@@ -12,6 +12,13 @@
 * [Enrich linux auditd logs into JSON format](https://github.com/mthcht/laurel)
 * [identify cli obfuscated commands on windows](https://github.com/wietze/windows-command-line-obfuscation)
 
+### logging
+* [linux / windows](https://what2log.com/)
+* [Antivirus Event Analysis Cheat Sheet v1.12](https://www.nextron-systems.com/2023/01/20/antivirus-event-analysis-cheat-sheet-v1-12-0/)
+* [RMM LOLBAS Matrix](https://bit.ly/RMM_LOLBAS_Matrix)
+* [Windows logging cheat sheets](https://www.malwarearchaeology.com/cheat-sheets/)
+* [Yamato Security's Windows Event Log Configuration Guide For DFIR And Threat Hunting](https://github.com/Yamato-Security/EnableWindowsLogSettings)
+
 ### misc
 
 * [Hunting for advanced Tactics, Techniques and Procedures (TTPs)](https://cyberpolygon.com/materials/hunting-for-advanced-tactics-techniques-and-procedures-ttps/)
