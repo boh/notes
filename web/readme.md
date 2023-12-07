@@ -73,6 +73,9 @@
 * [Nuclei plugins to audit Chrome extensions](https://github.com/nullenc0de/ChromeAudit)
 * [ParamSpider + Nuclei fuzzing](https://github.com/0xKayala/NucleiFuzzer)
 
+### TEMPLATE INJECTIONS
+* [TInjA is a CLI tool for testing web pages for template injection vulnerabilities and supports 44 of the most relevant template engines for eight different programming languages.](https://github.com/Hackmanit/TInjA)
+
 ### SSL
 * [SSL testing with openssl](https://www.feistyduck.com/library/openssl-cookbook/online/ch-testing-with-openssl.html)
 * [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
