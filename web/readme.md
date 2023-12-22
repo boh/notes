@@ -216,6 +216,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 
 ### api
 * [graphql explorer](https://github.com/dolevf/graphw00f)
+* [graphql security auditor](https://github.com/dolevf/graphql-cop)
 * (API pentest mindmap)[https://dsopas.github.io/MindAPI/play/]
 * [API testing - Akto](https://github.com/akto-api-security/tests-library)
 * [awesome api security essentials](https://github.com/JBAhire/awesome-api-security-essentials)
