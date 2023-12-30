@@ -198,6 +198,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 * [JavaSecurity checklist](https://github.com/dschadow/JavaSecurity)
 * [weaponized xss payloads](https://github.com/hakluke/weaponised-XSS-payloads)
 * [crawl, search for secrets in js source files](https://github.com/BishopFox/jsluice)
+* [fetch js files from url/domains](https://github.com/lc/subjs)
 
 ### tuts
 
