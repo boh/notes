@@ -193,6 +193,9 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 * [fuzz wordlist](https://github.com/Bo0oM/fuzz.txt)
 * [Afuzz](https://github.com/RapidDNS/Afuzz)
 
+### SQL inject
+* [Script to find sqli sleeps](https://github.com/HernanRodriguez1/SQLi_Sleeps)
+
 ### JAVASCRIPT
 
 * [JavaSecurity checklist](https://github.com/dschadow/JavaSecurity)
