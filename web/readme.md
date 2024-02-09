@@ -94,6 +94,7 @@
 * [headerinjection](https://github.com/themalwarenews/headerinjection)
 
 ### Recon/Hunting
+* [take web site screen](https://github.com/simonw/shot-scraper)
 * [web-check](https://github.com/Lissy93/web-check)
 * [Dynamic Infrastracture](https://github.com/pry0cc/axiom)
 * [DNS recon](https://github.com/Findomain/Findomain)
