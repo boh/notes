@@ -195,6 +195,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 
 ### SQL inject
 * [Script to find sqli sleeps](https://github.com/HernanRodriguez1/SQLi_Sleeps)
+* [Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet)
 
 ### JAVASCRIPT
 
