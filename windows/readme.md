@@ -1,6 +1,7 @@
 ## hardening
 * [awesome windows hardening](https://github.com/decalage2/awesome-security-hardening#windows)
 * [Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
+* [HardeningKitty](https://github.com/scipag/HardeningKitty)
 
 ## misc
 * https://strontic.github.io/xcyclopedia/
