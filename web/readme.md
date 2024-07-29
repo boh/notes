@@ -73,6 +73,8 @@
 * [Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection)
 * [Nuclei plugins to audit Chrome extensions](https://github.com/nullenc0de/ChromeAudit)
 * [ParamSpider + Nuclei fuzzing](https://github.com/0xKayala/NucleiFuzzer)
+* [NucleiScanner - Nuclei + Subfinder + Gauplus + Paramspider + httpx](https://github.com/0xKayala/NucleiScanner)
+* [Nuclei plugin for BurpSuite](https://github.com/projectdiscovery/nuclei-burp-plugin)
 
 ### TEMPLATE INJECTIONS
 * [TInjA is a CLI tool for testing web pages for template injection vulnerabilities and supports 44 of the most relevant template engines for eight different programming languages.](https://github.com/Hackmanit/TInjA)
