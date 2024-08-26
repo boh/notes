@@ -75,6 +75,8 @@
 * [ParamSpider + Nuclei fuzzing](https://github.com/0xKayala/NucleiFuzzer)
 * [NucleiScanner - Nuclei + Subfinder + Gauplus + Paramspider + httpx](https://github.com/0xKayala/NucleiScanner)
 * [Nuclei plugin for BurpSuite](https://github.com/projectdiscovery/nuclei-burp-plugin)
+* [Nuclei templates collection](https://github.com/U53RW4R3/nuclei-fuzzer-templates?tab=readme-ov-file)
+* [More Nuclei templates](https://github.com/topscoder/nuclei-wordfence-cve)
 
 ### TEMPLATE INJECTIONS
 * [TInjA is a CLI tool for testing web pages for template injection vulnerabilities and supports 44 of the most relevant template engines for eight different programming languages.](https://github.com/Hackmanit/TInjA)
