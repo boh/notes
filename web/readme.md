@@ -20,6 +20,7 @@
 * [crawl js in passive mode](https://github.com/hisxo/JSpector/)
 * [Burp Suite Extension for inserting a magick byte into responder's request](https://github.com/websecnl/MagickByteSelector)
 * [burp-digitalocean-openvpn-socks](https://github.com/honoki/burp-digitalocean-openvpn-socks)
+* [Burp headless scan manager incl. webhooks notifications](https://github.com/0xanuj/blinks)
 
 ### Chrome extensions
 * [A Chrome browser extension to show alerts for relfected query params, show hidden elements and enable disabled elements.](https://github.com/xnl-h4ck3r/XnlReveal)
