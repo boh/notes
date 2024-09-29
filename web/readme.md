@@ -239,7 +239,7 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 * [H1 How hackers saved christmas](https://hackerone.com/reports/1069335)
 
 ### Bounty Tips
-
+* [Portswiger SSRF url-validation-bypass-cheat-sheet](https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet)
 * ssrf + don't forget to add additional headers like X-Remote-IP, X-Forwarded-For, X-Real-IP etc to 127.0.0.1
 
 ```
