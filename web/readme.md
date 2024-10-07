@@ -55,6 +55,7 @@
 * [AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty)
 * [Monitoring JS files for bug bounty](https://github.com/robre/jsmon)
 * [Continuous monitoring for JavaScript files](https://github.com/cablej/FileChangeMonitor)
+* [XSS-Bypass-Filters](https://github.com/Edr4/XSS-Bypass-Filters)
 
 ## Proxies
 
