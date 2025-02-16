@@ -234,6 +234,8 @@ thanks `https://github.com/ptswarm/ptswarm-twitter/blob/main/2020-11-30-open-red
 * [API testing - Akto](https://github.com/akto-api-security/tests-library)
 * [awesome api security essentials](https://github.com/JBAhire/awesome-api-security-essentials)
 * [check leaks](https://github.com/streaak/keyhacks)
+* [Bruno - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)](https://github.com/usebruno/bruno)
+* [Parse and visuzlize OpenAPI/Swagger files](https://github.com/Redocly/redoc)
 
 ### ctfs and reports
 * [[H1-2006 2020] I made the CEO's bounty payment!](https://hackerone.com/reports/887816)
