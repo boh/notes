@@ -87,6 +87,9 @@
 * [SSL testing with openssl](https://www.feistyduck.com/library/openssl-cookbook/online/ch-testing-with-openssl.html)
 * [jwtXploiter](https://github.com/DontPanicO/jwtXploiter)
 
+### XXE
+* [XXE in XLSX](https://github.com/kljunowsky/XXElixir)
+
 ### IDOR
 * [finding-more-idors-tips-and-tricks](https://www.aon.com/cyber-solutions/aon_cyber_labs/finding-more-idors-tips-and-tricks/)
 
